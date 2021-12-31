@@ -1,0 +1,31 @@
+label{
+    width:200px;
+    display:inline-block;
+    margin-left: 25%;
+    font-size: 20px;
+}
+h1{
+    color:red;
+}
+
+input{
+    padding:6px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+
+select{
+    padding:6px;
+    font-size: 14px;
+    border-radius: 4px;
+    width: 185px;
+}
+button{
+    text-align: center;
+    color: rgb(247, 246, 250);
+    width: 100px;
+    height: 35px;
+    background-color: green;
+}
+
